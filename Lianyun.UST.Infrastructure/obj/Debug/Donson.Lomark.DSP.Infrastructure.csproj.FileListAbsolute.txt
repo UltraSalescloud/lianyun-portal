@@ -1,0 +1,14 @@
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Donson.Lomark.DSP.Infrastructure.dll
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Donson.Lomark.DSP.Infrastructure.pdb
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Autofac.Configuration.dll
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Autofac.dll
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Autofac.Integration.Mvc.dll
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Enyim.Caching.dll
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\log4net.dll
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Autofac.xml
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Autofac.Configuration.xml
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Autofac.Integration.Mvc.xml
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Enyim.Caching.pdb
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\bin\Debug\Enyim.Caching.xml
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\obj\Debug\Donson.Lomark.DSP.Infrastructure.dll
+E:\新建文件夹\04.Donson.Lomark.DSP\trunk\Donson.Lomark.DSP.Infrastructure\obj\Debug\Donson.Lomark.DSP.Infrastructure.pdb
